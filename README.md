@@ -1,4 +1,4 @@
-# Dead Memes
+# The Dankest Bot
 A Discord bot with dead memes!
 
 
